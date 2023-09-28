@@ -1,9 +1,9 @@
 {
   "mongo": {
-    "connectionURI": "MONGO_CONNECTION_URI"
+    "connectionURI": "mongodb+srv://animxt:123@cluster0.ptmpfyp.mongodb.net/?retryWrites=true&w=majority"
   },
   "telegram": {
-    "token": "TELEGRAM_BOT_TOKEN"
+    "token": "6535153154:AAGuymX2nG6wrkfxVxe6Bqmqef2QMJRN0Cs"
   },
   "tracker": {
     "polling": {
